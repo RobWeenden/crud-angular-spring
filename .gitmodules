@@ -1,3 +1,6 @@
 [submodule "crud-angular/crud-angular-spring"]
 	path = crud-angular/crud-angular-spring
 	url = https://github.com/RobWeenden/crud-angular-spring.git
+[submodule "crud-spring/crud-angular-spring"]
+	path = crud-spring/crud-angular-spring
+	url = https://github.com/RobWeenden/crud-angular-spring.git
